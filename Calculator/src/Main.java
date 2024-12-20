@@ -9,6 +9,9 @@ public class Main {
 
         System.out.println("Ikkinchi raqamni kiriting");
         double secondNumber =scanner.nextDouble();
+
+        System.out.println("Amalni tanlang (+,-,*,/): ");
+        char operation =scanner.next().charAt(0);
         
 
     }
