@@ -1,0 +1,40 @@
+{
+  "idu": [
+    {
+      "university": "University 1",
+      "students": [
+        {
+          "name": "John Doe",
+          "id": "101",
+          "login": "john101",
+          "password": "password123",
+          "username": "john_101",
+          "university": "University 1"
+        },
+        {
+          "name": "Jane Smith",
+          "id": "102",
+          "login": "jane102",
+          "password": "password456",
+          "username": "jane_102",
+          "university": "University 1"
+        }
+      ]
+    }
+  ],
+  "techdu": [
+    {
+      "university": "Tech University 1",
+      "students": [
+        {
+          "name": "Lucas Harris",
+          "id": "301",
+          "login": "lucas301",
+          "password": "techpass789",
+          "username": "lucas_301",
+          "university": "Tech University 1"
+        }
+      ]
+    }
+  ]
+}

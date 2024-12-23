@@ -1,0 +1,514 @@
+{
+  "idu": [
+    {
+      "university": "University 1",
+      "students": [
+        {
+          "name": "John Doe",
+          "id": "101",
+          "login": "john101",
+          "password": "password123",
+          "username": "john_101",
+          "university": "University 1"
+        },
+        {
+          "name": "Jane Smith",
+          "id": "102",
+          "login": "jane102",
+          "password": "password456",
+          "username": "jane_102",
+          "university": "University 1"
+        },
+        {
+          "name": "Alice Brown",
+          "id": "103",
+          "login": "alice103",
+          "password": "password789",
+          "username": "alice_103",
+          "university": "University 1"
+        },
+        {
+          "name": "Bob White",
+          "id": "104",
+          "login": "bob104",
+          "password": "password101",
+          "username": "bob_104",
+          "university": "University 1"
+        },
+        {
+          "name": "Charlie Green",
+          "id": "105",
+          "login": "charlie105",
+          "password": "password202",
+          "username": "charlie_105",
+          "university": "University 1"
+        },
+        {
+          "name": "David Black",
+          "id": "106",
+          "login": "david106",
+          "password": "password303",
+          "username": "david_106",
+          "university": "University 1"
+        },
+        {
+          "name": "Eva White",
+          "id": "107",
+          "login": "eva107",
+          "password": "password404",
+          "username": "eva_107",
+          "university": "University 1"
+        },
+        {
+          "name": "Frank Grey",
+          "id": "108",
+          "login": "frank108",
+          "password": "password505",
+          "username": "frank_108",
+          "university": "University 1"
+        },
+        {
+          "name": "Grace Blue",
+          "id": "109",
+          "login": "grace109",
+          "password": "password606",
+          "username": "grace_109",
+          "university": "University 1"
+        },
+        {
+          "name": "Harry Red",
+          "id": "110",
+          "login": "harry110",
+          "password": "password707",
+          "username": "harry_110",
+          "university": "University 1"
+        }
+      ]
+    },
+    {
+      "university": "University 2",
+      "students": [
+        {
+          "name": "Ivy Grey",
+          "id": "201",
+          "login": "ivy201",
+          "password": "password888",
+          "username": "ivy_201",
+          "university": "University 2"
+        },
+        {
+          "name": "Jack White",
+          "id": "202",
+          "login": "jack202",
+          "password": "password999",
+          "username": "jack_202",
+          "university": "University 2"
+        },
+        {
+          "name": "Kara Brown",
+          "id": "203",
+          "login": "kara203",
+          "password": "password1011",
+          "username": "kara_203",
+          "university": "University 2"
+        },
+        {
+          "name": "Liam Green",
+          "id": "204",
+          "login": "liam204",
+          "password": "password1112",
+          "username": "liam_204",
+          "university": "University 2"
+        },
+        {
+          "name": "Mona Blue",
+          "id": "205",
+          "login": "mona205",
+          "password": "password1213",
+          "username": "mona_205",
+          "university": "University 2"
+        },
+        {
+          "name": "Nathan Black",
+          "id": "206",
+          "login": "nathan206",
+          "password": "password1314",
+          "username": "nathan_206",
+          "university": "University 2"
+        },
+        {
+          "name": "Olivia Yellow",
+          "id": "207",
+          "login": "olivia207",
+          "password": "password1415",
+          "username": "olivia_207",
+          "university": "University 2"
+        },
+        {
+          "name": "Paul Grey",
+          "id": "208",
+          "login": "paul208",
+          "password": "password1516",
+          "username": "paul_208",
+          "university": "University 2"
+        },
+        {
+          "name": "Quinn White",
+          "id": "209",
+          "login": "quinn209",
+          "password": "password1617",
+          "username": "quinn_209",
+          "university": "University 2"
+        },
+        {
+          "name": "Rita Red",
+          "id": "210",
+          "login": "rita210",
+          "password": "password1718",
+          "username": "rita_210",
+          "university": "University 2"
+        }
+      ]
+    },
+    {
+      "university": "University 3",
+      "students": [
+        {
+          "name": "Sam Green",
+          "id": "301",
+          "login": "sam301",
+          "password": "password1819",
+          "username": "sam_301",
+          "university": "University 3"
+        },
+        {
+          "name": "Tina Blue",
+          "id": "302",
+          "login": "tina302",
+          "password": "password1920",
+          "username": "tina_302",
+          "university": "University 3"
+        },
+        {
+          "name": "Uma Red",
+          "id": "303",
+          "login": "uma303",
+          "password": "password2021",
+          "username": "uma_303",
+          "university": "University 3"
+        },
+        {
+          "name": "Vera Yellow",
+          "id": "304",
+          "login": "vera304",
+          "password": "password2122",
+          "username": "vera_304",
+          "university": "University 3"
+        },
+        {
+          "name": "Will White",
+          "id": "305",
+          "login": "will305",
+          "password": "password2223",
+          "username": "will_305",
+          "university": "University 3"
+        },
+        {
+          "name": "Xander Blue",
+          "id": "306",
+          "login": "xander306",
+          "password": "password2324",
+          "username": "xander_306",
+          "university": "University 3"
+        },
+        {
+          "name": "Yara Black",
+          "id": "307",
+          "login": "yara307",
+          "password": "password2425",
+          "username": "yara_307",
+          "university": "University 3"
+        },
+        {
+          "name": "Zane Green",
+          "id": "308",
+          "login": "zane308",
+          "password": "password2526",
+          "username": "zane_308",
+          "university": "University 3"
+        },
+        {
+          "name": "Adam Red",
+          "id": "309",
+          "login": "adam309",
+          "password": "password2627",
+          "username": "adam_309",
+          "university": "University 3"
+        },
+        {
+          "name": "Bella Yellow",
+          "id": "310",
+          "login": "bella310",
+          "password": "password2728",
+          "username": "bella_310",
+          "university": "University 3"
+        }
+      ]
+    },
+    {
+      "university": "University 4",
+      "students": [
+        {
+          "name": "Chloe Green",
+          "id": "401",
+          "login": "chloe401",
+          "password": "password2829",
+          "username": "chloe_401",
+          "university": "University 4"
+        },
+        {
+          "name": "Daniel Blue",
+          "id": "402",
+          "login": "daniel402",
+          "password": "password2930",
+          "username": "daniel_402",
+          "university": "University 4"
+        },
+        {
+          "name": "Evan Black",
+          "id": "403",
+          "login": "evan403",
+          "password": "password3031",
+          "username": "evan_403",
+          "university": "University 4"
+        },
+        {
+          "name": "Fiona Yellow",
+          "id": "404",
+          "login": "fiona404",
+          "password": "password3132",
+          "username": "fiona_404",
+          "university": "University 4"
+        },
+        {
+          "name": "Gavin Red",
+          "id": "405",
+          "login": "gavin405",
+          "password": "password3233",
+          "username": "gavin_405",
+          "university": "University 4"
+        },
+        {
+          "name": "Hannah Green",
+          "id": "406",
+          "login": "hannah406",
+          "password": "password3334",
+          "username": "hannah_406",
+          "university": "University 4"
+        },
+        {
+          "name": "Iris Blue",
+          "id": "407",
+          "login": "iris407",
+          "password": "password3435",
+          "username": "iris_407",
+          "university": "University 4"
+        },
+        {
+          "name": "Jake Black",
+          "id": "408",
+          "login": "jake408",
+          "password": "password3536",
+          "username": "jake_408",
+          "university": "University 4"
+        },
+        {
+          "name": "Lily Yellow",
+          "id": "409",
+          "login": "lily409",
+          "password": "password3637",
+          "username": "lily_409",
+          "university": "University 4"
+        },
+        {
+          "name": "Mark Green",
+          "id": "410",
+          "login": "mark410",
+          "password": "password3738",
+          "username": "mark_410",
+          "university": "University 4"
+        }
+      ]
+    },
+    {
+      "university": "University 5",
+      "students": [
+        {
+          "name": "Nina Blue",
+          "id": "501",
+          "login": "nina501",
+          "password": "password3839",
+          "username": "nina_501",
+          "university": "University 5"
+        },
+        {
+          "name": "Oscar Green",
+          "id": "502",
+          "login": "oscar502",
+          "password": "password3940",
+          "username": "oscar_502",
+          "university": "University 5"
+        },
+        {
+          "name": "Paul Black",
+          "id": "503",
+          "login": "paul503",
+          "password": "password4041",
+          "username": "paul_503",
+          "university": "University 5"
+        },
+        {
+          "name": "Quinn Red",
+          "id": "504",
+          "login": "quinn504",
+          "password": "password4142",
+          "username": "quinn_504",
+          "university": "University 5"
+        },
+        {
+          "name": "Riley Yellow",
+          "id": "505",
+          "login": "riley505",
+          "password": "password4243",
+          "username": "riley_505",
+          "university": "University 5"
+        },
+        {
+          "name": "Sophia Blue",
+          "id": "506",
+          "login": "sophia506",
+          "password": "password4344",
+          "username": "sophia_506",
+          "university": "University 5"
+        },
+        {
+          "name": "Thomas Green",
+          "id": "507",
+          "login": "thomas507",
+          "password": "password4445",
+          "username": "thomas_507",
+          "university": "University 5"
+        },
+        {
+          "name": "Ursula Black",
+          "id": "508",
+          "login": "ursula508",
+          "password": "password4546",
+          "username": "ursula_508",
+          "university": "University 5"
+        },
+        {
+          "name": "Vince Red",
+          "id": "509",
+          "login": "vince509",
+          "password": "password4647",
+          "username": "vince_509",
+          "university": "University 5"
+        },
+        {
+          "name": "Wendy Yellow",
+          "id": "510",
+          "login": "wendy510",
+          "password": "password4748",
+          "username": "wendy_510",
+          "university": "University 5"
+        }
+      ]
+    },
+    {
+      "university": "University 6",
+      "students": [
+        {
+          "name": "Xander Red",
+          "id": "601",
+          "login": "xander601",
+          "password": "password4849",
+          "username": "xander_601",
+          "university": "University 6"
+        },
+        {
+          "name": "Yara Yellow",
+          "id": "602",
+          "login": "yara602",
+          "password": "password4950",
+          "username": "yara_602",
+          "university": "University 6"
+        },
+        {
+          "name": "Zane Blue",
+          "id": "603",
+          "login": "zane603",
+          "password": "password5051",
+          "username": "zane_603",
+          "university": "University 6"
+        },
+        {
+          "name": "Adam Black",
+          "id": "604",
+          "login": "adam604",
+          "password": "password5152",
+          "username": "adam_604",
+          "university": "University 6"
+        },
+        {
+          "name": "Bella Green",
+          "id": "605",
+          "login": "bella605",
+          "password": "password5253",
+          "username": "bella_605",
+          "university": "University 6"
+        },
+        {
+          "name": "Chloe Blue",
+          "id": "606",
+          "login": "chloe606",
+          "password": "password5354",
+          "username": "chloe_606",
+          "university": "University 6"
+        },
+        {
+          "name": "Daniel Yellow",
+          "id": "607",
+          "login": "daniel607",
+          "password": "password5455",
+          "username": "daniel_607",
+          "university": "University 6"
+        },
+        {
+          "name": "Eva Black",
+          "id": "608",
+          "login": "eva608",
+          "password": "password5556",
+          "username": "eva_608",
+          "university": "University 6"
+        },
+        {
+          "name": "Frank Green",
+          "id": "609",
+          "login": "frank609",
+          "password": "password5657",
+          "username": "frank_609",
+          "university": "University 6"
+        },
+        {
+          "name": "Grace Red",
+          "id": "610",
+          "login": "grace610",
+          "password": "password5758",
+          "username": "grace_610",
+          "university": "University 6"
+        }
+      ]
+    }
+  ]
+}
