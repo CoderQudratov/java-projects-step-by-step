@@ -8,3 +8,6 @@ Hammaga salom bu loyihamda men bosqichma bosqich javada loyihalar qilib boraman,
  Odd-Even Number-https://github.com/CoderQudratov/java-projects-step-by-step/tree/main/odd%20even
 
  Simple-Calculator-https://github.com/CoderQudratov/java-projects-step-by-step/tree/main/Calculator
+
+ Hemis clone-https://github.com/CoderQudratov/java-projects-step-by-step/tree/main/Hemis
+ 
