@@ -4,8 +4,10 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Calculator/Calculator.iml" filepath="$PROJECT_DIR$/Calculator/Calculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/IO-file/IO-file.iml" filepath="$PROJECT_DIR$/IO-file/IO-file.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dinosaur-care-system/dinosaur-care-system.iml" filepath="$PROJECT_DIR$/dinosaur-care-system/dinosaur-care-system.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-projects-step-by-step.iml" filepath="$PROJECT_DIR$/java-projects-step-by-step.iml" />
       <module fileurl="file://$PROJECT_DIR$/odd even/odd even.iml" filepath="$PROJECT_DIR$/odd even/odd even.iml" />
+      <module fileurl="file://$PROJECT_DIR$/creating-throw-expictions/try-with-resources/try-with-resources.iml" filepath="$PROJECT_DIR$/creating-throw-expictions/try-with-resources/try-with-resources.iml" />
     </modules>
   </component>
 </project>
