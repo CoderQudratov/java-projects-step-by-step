@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Calculator/Calculator.iml" filepath="$PROJECT_DIR$/Calculator/Calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IO-file/IO-file.iml" filepath="$PROJECT_DIR$/IO-file/IO-file.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-projects-step-by-step.iml" filepath="$PROJECT_DIR$/java-projects-step-by-step.iml" />
       <module fileurl="file://$PROJECT_DIR$/odd even/odd even.iml" filepath="$PROJECT_DIR$/odd even/odd even.iml" />
     </modules>
