@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Calculator/Calculator.iml" filepath="$PROJECT_DIR$/Calculator/Calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hospital CRm/Hospital CRm.iml" filepath="$PROJECT_DIR$/Hospital CRm/Hospital CRm.iml" />
       <module fileurl="file://$PROJECT_DIR$/IO-file/IO-file.iml" filepath="$PROJECT_DIR$/IO-file/IO-file.iml" />
       <module fileurl="file://$PROJECT_DIR$/dinosaur-care-system/dinosaur-care-system.iml" filepath="$PROJECT_DIR$/dinosaur-care-system/dinosaur-care-system.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-projects-step-by-step.iml" filepath="$PROJECT_DIR$/java-projects-step-by-step.iml" />
