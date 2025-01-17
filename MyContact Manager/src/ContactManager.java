@@ -18,4 +18,27 @@ public class ContactManager {
         return null;
 
     }
+
+    public static void main(String[] args) {
+        //Create Contactmanager object
+        ContactManager myContactManager =new ContactManager();
+        //Create a new Contact object for james
+        Contact frinedJames =new Contact();
+        //Set the fields name
+        frinedJames.name="James";
+        frinedJames.phoneNumber="938679201";
+        //add a new Contact to the ContactManager
+        myContactManager.addContact(frinedJames);
+
+        //Create a new Contact object for cezana
+        Contact friendsCezana=new Contact();
+        //Set the fields
+        friendsCezana.name="Cezana";
+        friendsCezana.phoneNumber="930947879";
+        //Add Cezana Contact to the ContactManager
+        myContactManager.addContact(friendsCezana);
+       Contact result = myContactManager.searchContact("Cezana");
+
+
+    }
 }
