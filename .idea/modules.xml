@@ -3,8 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Calculator/Calculator.iml" filepath="$PROJECT_DIR$/Calculator/Calculator.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Hospital CRM/Hospital CRM.iml" filepath="$PROJECT_DIR$/Hospital CRM/Hospital CRM.iml" />
       <module fileurl="file://$PROJECT_DIR$/IO-file/IO-file.iml" filepath="$PROJECT_DIR$/IO-file/IO-file.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyContact Manager/MyContact Manager.iml" filepath="$PROJECT_DIR$/MyContact Manager/MyContact Manager.iml" />
       <module fileurl="file://$PROJECT_DIR$/dinosaur-care-system/dinosaur-care-system.iml" filepath="$PROJECT_DIR$/dinosaur-care-system/dinosaur-care-system.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-projects-step-by-step.iml" filepath="$PROJECT_DIR$/java-projects-step-by-step.iml" />
       <module fileurl="file://$PROJECT_DIR$/odd even/odd even.iml" filepath="$PROJECT_DIR$/odd even/odd even.iml" />
