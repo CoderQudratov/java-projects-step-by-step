@@ -5,4 +5,8 @@ public class ContactManager {
         friendsContact=0;
         myFriends=new Contact[500];
     }
+    void addContact(Contact contact){
+        myFriends[friendsContact]=contact;
+        friendsContact++;
+    }
 }
