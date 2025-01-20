@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Calculator/Calculator.iml" filepath="$PROJECT_DIR$/Calculator/Calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Generics and Collections/Generics and Collections.iml" filepath="$PROJECT_DIR$/Generics and Collections/Generics and Collections.iml" />
       <module fileurl="file://$PROJECT_DIR$/IO-file/IO-file.iml" filepath="$PROJECT_DIR$/IO-file/IO-file.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyContact Manager/MyContact Manager.iml" filepath="$PROJECT_DIR$/MyContact Manager/MyContact Manager.iml" />
       <module fileurl="file://$PROJECT_DIR$/dinosaur-care-system/dinosaur-care-system.iml" filepath="$PROJECT_DIR$/dinosaur-care-system/dinosaur-care-system.iml" />
